@@ -1,0 +1,12 @@
+.center {
+    text-align: center;
+}
+
+.left {
+    float: left;
+}
+
+p {
+    margin: 2%;
+    text-indent: 1.5em;
+}

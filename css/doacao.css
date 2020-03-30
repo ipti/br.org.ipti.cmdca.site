@@ -1,0 +1,15 @@
+.center {
+    width: 1050px;
+    height: auto;
+    margin: auto;
+    text-align: center;
+}
+
+div#doa-cao h2 {
+    text-align: left;
+    display: inline;
+}
+
+.left {
+    margin-left: 20px;
+}
