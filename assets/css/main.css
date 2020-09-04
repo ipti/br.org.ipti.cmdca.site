@@ -2386,6 +2386,22 @@ ul.menu li:first-child {
     #copyright {
         text-align: left;
     }
+    
+}
+
+/* Disque Denuncia */
+#diskphone h2 {
+    margin: 0 0 1.25em 0;
+}
+
+#diskphone a {
+    font-size: 3.5em;
+    font-weight: bold;
+    color: #444;
+}
+
+#diskphone a:link {
+    text-decoration: none;
 }
 
 /*
