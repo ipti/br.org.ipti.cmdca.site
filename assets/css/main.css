@@ -1581,6 +1581,10 @@ ul.menu li:first-child {
     border-bottom-right-radius: 0;
 }
 
+.box.feature a {
+    text-decoration: none;
+    color: #444
+}
 
 /* Icons */
 
